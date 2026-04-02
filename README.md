@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-28a745?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
-A progressive, self-documented series of Jupyter Notebooks covering NumPy from first principles to intermediate-level numerical computing. Each notebook reflects what I explored, the mental models I built, and the performance patterns I internalized.
+A progressive self-documented series of Jupyter Notebooks covering NumPy from first principles to intermediate-level numerical computing. Each notebook reflects what I explored, the mental models I built, and the performance patterns I internalized.
 
 ---
 
@@ -104,7 +104,7 @@ jupyter notebook
 ## Author
 
 **Abhishek Akhand**
-B.Tech — Artificial Intelligence and Data Science
+B.Tech — Artificial Intelligence and Data Science.
 
 GitHub: [abhishekakhand737](https://github.com/abhishekakhand737)
 
