@@ -56,7 +56,7 @@ Boolean indexing allows filtering arrays with conditions rather than explicit lo
 
 ### Broadcasting
 
-Broadcasting is the mechanism that allows NumPy to apply operations between arrays of different shapes without explicitly copying data. The rules are: dimensions are compared trailing-to-leading; a dimension of size 1 is stretched to match the other; dimensions that are absent are treated as size 1. Once these rules are understood, broadcasting reduces entire categories of explicit loops.
+Broadcasting is the mechanism that allows NumPy to apply operations between arrays of different shapes without explicitly copying data. The rules are: dimensions are compared trailing-to-leading; a dimension of size 1 is stretched to match the other; dimensions that are absent are treated as size 1. Once these rules are understood, broadcasting reduces entire categories of explicit the loops.
 
 ### Aggregation Along Axes
 
