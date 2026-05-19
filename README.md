@@ -101,7 +101,7 @@ jupyter notebook
 
 ---
 
-## Author
+### Author
 
 **Abhishek Akhand**
 B.Tech — Artificial Intelligence and Data Science.
