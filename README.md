@@ -111,3 +111,4 @@ GitHub: [abhishekakhand737](https://github.com/abhishekakhand737)
 ---
 
 *NumPy does not make you think less — it makes you think at the right level of abstraction.*
+If you like this repository then star the repository.
